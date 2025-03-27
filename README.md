@@ -65,17 +65,17 @@
 <!-- GitHub Stats with Custom Animation -->
 <h2 align="center" style="color: #bd93f9; text-shadow: 0 0 10px rgba(189, 147, 249, 0.5); margin-top: 40px;">📊 GitHub Analytics</h2>
 <div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 20px; margin: 30px 0;">
-  <img src="https://github-readme-stats.vercel.app/api?username=VibhayKumar&show_icons=true&theme=dracula&count_private=true&hide_border=true&bg_color=0D1117&title_color=bd93f9&text_color=f8f8f2&icon_color=ff79c6&include_all_commits=true&custom_title=Vibhay's+GitHub+Stats&hide=issues" alt="GitHub Stats" style="border-radius: 15px; box-shadow: 0 10px 30px rgba(189, 147, 249, 0.3); transition: transform 0.3s ease;" onmouseover="this.style.transform='scale(1.02)'" onmouseout="this.style.transform='scale(1)'" />
+  <img src="https://github-readme-stats.vercel.app/api?username=vibhay01&show_icons=true&theme=dracula&count_private=true&hide_border=true&bg_color=0D1117&title_color=bd93f9&text_color=f8f8f2&icon_color=ff79c6&include_all_commits=true&custom_title=Vibhay's+GitHub+Stats&hide=issues" alt="GitHub Stats" style="border-radius: 15px; box-shadow: 0 10px 30px rgba(189, 147, 249, 0.3); transition: transform 0.3s ease;" onmouseover="this.style.transform='scale(1.02)'" onmouseout="this.style.transform='scale(1)'" />
   
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=VibhayKumar&theme=dracula&hide_border=true&background=0D1117&stroke=bd93f9&ring=ff79c6&fire=ffb86c&currStreakLabel=f8f8f2" alt="Streak Stats" style="border-radius: 15px; box-shadow: 0 10px 30px rgba(189, 147, 249, 0.3); transition: transform 0.3s ease;" onmouseover="this.style.transform='scale(1.02)'" onmouseout="this.style.transform='scale(1)'" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=vibhay01&theme=dracula&hide_border=true&background=0D1117&stroke=bd93f9&ring=ff79c6&fire=ffb86c&currStreakLabel=f8f8f2" alt="Streak Stats" style="border-radius: 15px; box-shadow: 0 10px 30px rgba(189, 147, 249, 0.3); transition: transform 0.3s ease;" onmouseover="this.style.transform='scale(1.02)'" onmouseout="this.style.transform='scale(1)'" />
   
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VibhayKumar&layout=compact&theme=dracula&hide_border=true&bg_color=0D1117&title_color=bd93f9&text_color=f8f8f2&icon_color=ff79c6&langs_count=8" alt="Top Languages" style="border-radius: 15px; box-shadow: 0 10px 30px rgba(189, 147, 249, 0.3); transition: transform 0.3s ease;" onmouseover="this.style.transform='scale(1.02)'" onmouseout="this.style.transform='scale(1)'" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vibhay01&layout=compact&theme=dracula&hide_border=true&bg_color=0D1117&title_color=bd93f9&text_color=f8f8f2&icon_color=ff79c6&langs_count=8" alt="Top Languages" style="border-radius: 15px; box-shadow: 0 10px 30px rgba(189, 147, 249, 0.3); transition: transform 0.3s ease;" onmouseover="this.style.transform='scale(1.02)'" onmouseout="this.style.transform='scale(1)'" />
 </div>
 
 <!-- 3D Wrapped Contribution Graph -->
 <h2 align="center" style="color: #f1fa8c; text-shadow: 0 0 10px rgba(241, 250, 140, 0.5); margin-top: 40px;">📈 Contribution Graph</h2>
 <div align="center" style="perspective: 1000px;">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=VibhayKumar&theme=dracula&bg_color=0D1117&color=f8f8f2&line=bd93f9&point=ff79c6&area=true&hide_border=true&custom_title=My+Contribution+Graph" alt="Activity Graph" style="border-radius: 15px; box-shadow: 0 15px 40px rgba(241, 250, 140, 0.2); transform: rotateX(10deg);" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=vibhay01&theme=dracula&bg_color=0D1117&color=f8f8f2&line=bd93f9&point=ff79c6&area=true&hide_border=true&custom_title=My+Contribution+Graph" alt="Activity Graph" style="border-radius: 15px; box-shadow: 0 15px 40px rgba(241, 250, 140, 0.2); transform: rotateX(10deg);" />
 </div>
 
 <!-- Featured Projects with Interactive Cards -->
@@ -131,7 +131,7 @@
     </div>
   </a>
   
-  <a href="mailto:vibhaykumar.cse@gmail.com" target="_blank" style="text-decoration: none;">
+  <a href="mailto:vibhaycoc@gmail.com" target="_blank" style="text-decoration: none;">
     <div style="background: rgba(40, 42, 54, 0.7); padding: 15px 25px; border-radius: 50px; display: flex; align-items: center; gap: 10px; border: 1px solid rgba(234, 67, 53, 0.3); transition: all 0.3s ease;" onmouseover="this.style.transform='translateY(-5px)'; this.style.boxShadow='0 10px 20px rgba(234, 67, 53, 0.3)'" onmouseout="this.style.transform='translateY(0)'; this.style.boxShadow='none'">
       <img src="https://img.icons8.com/color/48/000000/gmail.png" width="30" />
       <span style="color: #f8f8f2; font-weight: bold;">Email</span>
@@ -142,13 +142,6 @@
     <div style="background: rgba(40, 42, 54, 0.7); padding: 15px 25px; border-radius: 50px; display: flex; align-items: center; gap: 10px; border: 1px solid rgba(29, 161, 242, 0.3); transition: all 0.3s ease;" onmouseover="this.style.transform='translateY(-5px)'; this.style.boxShadow='0 10px 20px rgba(29, 161, 242, 0.3)'" onmouseout="this.style.transform='translateY(0)'; this.style.boxShadow='none'">
       <img src="https://img.icons8.com/color/48/000000/twitter.png" width="30" />
       <span style="color: #f8f8f2; font-weight: bold;">Twitter</span>
-    </div>
-  </a>
-  
-  <a href="https://vibhaykumar.medium.com" target="_blank" style="text-decoration: none;">
-    <div style="background: rgba(40, 42, 54, 0.7); padding: 15px 25px; border-radius: 50px; display: flex; align-items: center; gap: 10px; border: 1px solid rgba(0, 0, 0, 0.3); transition: all 0.3s ease;" onmouseover="this.style.transform='translateY(-5px)'; this.style.boxShadow='0 10px 20px rgba(0, 0, 0, 0.2)'" onmouseout="this.style.transform='translateY(0)'; this.style.boxShadow='none'">
-      <img src="https://img.icons8.com/color/48/000000/medium-logo.png" width="30" />
-      <span style="color: #f8f8f2; font-weight: bold;">Medium</span>
     </div>
   </a>
 </div>
