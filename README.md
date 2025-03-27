@@ -123,28 +123,30 @@
 
 <!-- Contact Section with Animated Icons -->
 <h2 align="center" style="color: #bd93f9; text-shadow: 0 0 10px rgba(189, 147, 249, 0.5); margin-top: 40px;">📬 Let's Connect</h2>
-<div align="center" style="display: flex; justify-content: center; gap: 20px; margin: 30px 0; flex-wrap: wrap;">
+<div align="center" style="display: flex; justify-content: center; gap: 20px; margin: 30px 0; flex-wrap: nowrap;">
   <a href="https://www.linkedin.com/in/vibhay-kumar/" target="_blank" style="text-decoration: none;">
     <div style="background: rgba(40, 42, 54, 0.7); padding: 15px 25px; border-radius: 50px; display: flex; align-items: center; gap: 10px; border: 1px solid rgba(10, 102, 194, 0.3); transition: all 0.3s ease;" onmouseover="this.style.transform='translateY(-5px)'; this.style.boxShadow='0 10px 20px rgba(10, 102, 194, 0.3)'" onmouseout="this.style.transform='translateY(0)'; this.style.boxShadow='none'">
       <img src="https://img.icons8.com/color/48/000000/linkedin.png" width="30" />
-      <span style="color: #f8f8f2; font-weight: bold;">LinkedIn</span>
+      <span style="color: #0a66c2; font-weight: bold;">LinkedIn</span>
     </div>
   </a>
-  
+
   <a href="mailto:vibhaycoc@gmail.com" target="_blank" style="text-decoration: none;">
     <div style="background: rgba(40, 42, 54, 0.7); padding: 15px 25px; border-radius: 50px; display: flex; align-items: center; gap: 10px; border: 1px solid rgba(234, 67, 53, 0.3); transition: all 0.3s ease;" onmouseover="this.style.transform='translateY(-5px)'; this.style.boxShadow='0 10px 20px rgba(234, 67, 53, 0.3)'" onmouseout="this.style.transform='translateY(0)'; this.style.boxShadow='none'">
       <img src="https://img.icons8.com/color/48/000000/gmail.png" width="30" />
-      <span style="color: #f8f8f2; font-weight: bold;">Email</span>
+      <span style="color: #ea4335; font-weight: bold;">Gmail</span>
     </div>
   </a>
-  
+
   <a href="https://twitter.com/vibhaykumar" target="_blank" style="text-decoration: none;">
     <div style="background: rgba(40, 42, 54, 0.7); padding: 15px 25px; border-radius: 50px; display: flex; align-items: center; gap: 10px; border: 1px solid rgba(29, 161, 242, 0.3); transition: all 0.3s ease;" onmouseover="this.style.transform='translateY(-5px)'; this.style.boxShadow='0 10px 20px rgba(29, 161, 242, 0.3)'" onmouseout="this.style.transform='translateY(0)'; this.style.boxShadow='none'">
       <img src="https://img.icons8.com/color/48/000000/twitter.png" width="30" />
-      <span style="color: #f8f8f2; font-weight: bold;">Twitter</span>
+      <span style="color: #1da1f2; font-weight: bold;">Twitter</span>
     </div>
   </a>
 </div>
+
+
 
 <!-- GitHub Trophies with Glow Effect -->
 <h2 align="center" style="color: #ffb86c; text-shadow: 0 0 10px rgba(255, 184, 108, 0.5); margin-top: 40px;">🏆 GitHub Achievements</h2>
