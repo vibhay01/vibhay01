@@ -188,10 +188,4 @@
 </div>
 
 <!-- JavaScript for Particle Animation -->
-<script>
-  // This would be replaced with actual particle.js implementation
-  // For GitHub README, this is just a placeholder as JavaScript doesn't execute in markdown
-  document.addEventListener('DOMContentLoaded', function() {
-    console.log('Particle animation would load here in a web environment');
-  });
-</script>
+
