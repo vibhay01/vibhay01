@@ -20,22 +20,11 @@
 📫 **Connect with Me**:
 - Email: [vibhaycoc@gmail.com](mailto:vibhaykumarcoc@gmail.com)
 - LinkedIn: [linkedin.com/in/vibhay01](https://www.linkedin.com/in/vibhay01)
-- Resume: [View PDF](https://github.com/VibhayKumar/VibhayKumar/blob/main/Vibhay_Resume.pdf)
+- Resume: [View PDF](https://drive.google.com/file/d/1Sb4yqc9_ymIizQuJfb2_F3aJC0UIYImB/view?usp=drive_link)
 
 ---
 
-### 🛠️ Projects
 
-- 📌 [Online Voting System](https://github.com/VibhayKumar/Online-Voting-System)  
-  A web-based platform allowing secure and accessible digital voting.
-
-- 📝 [ToDo Web App](https://github.com/VibhayKumar/ToDo-App)  
-  A simple and effective task management app using HTML, CSS, and JavaScript.
-
-- 📅 [Event Management Website](https://github.com/VibhayKumar/Event-Management)  
-  Website with sections for past, ongoing, and upcoming events. Features event registration and photo uploads.
-
----
 
 ### 💻 Technologies & Tools
 
@@ -58,6 +47,6 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=VibhayKumar&show_icons=true&theme=tokyonight" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=VibhayKumar&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=vibhay01&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=vibhay01&theme=tokyonight" />
 </p>
