@@ -9,11 +9,6 @@
 
 🎓 I'm currently in my final year of B.Tech in **Computer Science and Engineering** at **Heritage Institute of Technology, Kolkata**.
 
-💼 **Internships**:
-- Web Developer Intern – *Oasis Infobyte*
-- Frontend Developer Intern – *CodeSoft*
-- Web Developer Intern – *InternPe*
-
 👨‍💻 **Skills**:
 - Programming: C++, Java, Python
 - Web Development: HTML, CSS, JavaScript, Bootstrap
@@ -23,8 +18,8 @@
 - Tools: Git, GitHub, VS Code
 
 📫 **Connect with Me**:
-- Email: [vibhaykumar2002@gmail.com](mailto:vibhaykumar2002@gmail.com)
-- LinkedIn: [linkedin.com/in/vibhaykumar2002](https://www.linkedin.com/in/vibhaykumar2002)
+- Email: [vibhaycoc@gmail.com](mailto:vibhaykumarcoc@gmail.com)
+- LinkedIn: [linkedin.com/in/vibhay01](https://www.linkedin.com/in/vibhay01)
 - Resume: [View PDF](https://github.com/VibhayKumar/VibhayKumar/blob/main/Vibhay_Resume.pdf)
 
 ---
