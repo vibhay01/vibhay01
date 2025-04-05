@@ -1,13 +1,13 @@
-<h1 align="center">Hi 👋, I'm Vibhay Kumar</h1>
-<h3 align="center">Final Year CSE Student | MERN Stack Developer | Tech Enthusiast</h3>
+<h1 align="center">Hi 👋, I'm <span style="color:#5995fd;">Vibhay Kumar</span></h1>
+<h3 align="center">🎓 Final Year CSE Student | 💻 MERN Stack Developer | 🚀 Tech Enthusiast</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=vibhaykumar&label=Profile%20views&color=0e75b6&style=flat" alt="vibhaykumar" />
+  <img src="https://komarev.com/ghpvc/?username=vibhay01&label=Profile%20Views&color=0e75b6&style=flat-square" alt="Profile Views" />
 </p>
 
----
-
-🎓 I'm currently in my final year of B.Tech in **Computer Science and Engineering** at **Heritage Institute of Technology, Kolkata**.
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=5995FD&center=true&vCenter=true&width=600&lines=Passionate+Full-Stack+Web+Developer;C%2B%2B+%7C+Java+%7C+Python+Coder;MERN+Stack+%7C+DSA+%7C+Open+Source+Contributor" alt="Typing SVG" />
+</p>
 
 👨‍💻 **Skills**:
 - Programming: C++, Java, Python
@@ -16,6 +16,12 @@
 - Database: MongoDB
 - Concepts: DBMS, OS, OOPs, CN
 - Tools: Git, GitHub, VS Code
+
+
+
+
+
+
 
 📫 **Connect with Me**:
 - Email: [vibhaycoc@gmail.com](mailto:vibhaykumarcoc@gmail.com)
