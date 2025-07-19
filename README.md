@@ -24,9 +24,10 @@
 
 
 📫 **Connect with Me**:
-- Email: [vibhaycoc@gmail.com](mailto:vibhaykumarcoc@gmail.com)
+- Email: [vibhaykumarcoc@gmail.com](mailto:vibhaykumarcoc@gmail.com)
 - LinkedIn: [linkedin.com/in/vibhay01](https://www.linkedin.com/in/vibhay01)
-- Resume: [View PDF]([https://drive.google.com/file/d/1Sb4yqc9_ymIizQuJfb2_F3aJC0UIYImB/view?usp=drive_link](https://drive.google.com/file/d/1FcZu5xQ67shosggBiqVWvY3FlMMEmAPQ/view?usp=sharing))
+- Resume: [View PDF](https://drive.google.com/file/d/1FcZu5xQ67shosggBiqVWvY3FlMMEmAPQ/view?usp=sharing)
+
 
 ---
 
