@@ -26,7 +26,7 @@
 📫 **Connect with Me**:
 - Email: [vibhaykumarcoc@gmail.com](mailto:vibhaykumarcoc@gmail.com)
 - LinkedIn: [linkedin.com/in/vibhay01](https://www.linkedin.com/in/vibhay01)
-- Resume: [View PDF]([https://drive.google.com/file/d/1_VFQhhHC2V6IMsSsxGjVZqYzlTeP2DzZ/view?usp=sharing](https://drive.google.com/file/d/1I-RmYyKcOydvuG_8dbcc_JUULhVN6mEc/view?usp=sharing))
+- Resume: [View PDF](https://drive.google.com/file/d/1_VFQhhHC2V6IMsSsxGjVZqYzlTeP2DzZ/view?usp=sharing](https://drive.google.com/file/d/1I-RmYyKcOydvuG_8dbcc_JUULhVN6mEc/view?usp=sharing))
 
 
 ---
